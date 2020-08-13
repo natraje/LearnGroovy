@@ -1,2 +1,2 @@
 # LearnGroovy
-Groovy Project
+My Groovy practice project
